@@ -4,7 +4,7 @@
 
 # AoM-API
  
-  <img src="https://media.tenor.com/wHl12r3z1FYAAAAC/get-on-aom-hop-on-aom.gif" width="100%" height="320" alt="AoM Logo" />
+Wiki from RTS Game Age of Mythology
 
 ## Description
 
